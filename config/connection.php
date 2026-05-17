@@ -1,7 +1,7 @@
 <?php
-$servername = "fishgdps1-fishgdps.h.aivencloud.com";
-$port = 23109;
+$servername = "mysql-272d4b4f-bruhmoments133417-ac3a.c.aivencloud.com";
+$port = 14724;
 $username = "avnadmin";
-$password = "AVNS_M7WKTMF28g5byek3dMA";
+$password = "AVNS_4iLRX7WNRN1pfelHtWy";
 $dbname = "gdps_fgdpsrp";
 ?>
