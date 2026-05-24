@@ -48,7 +48,7 @@ foreach($months as &$month){
 
 $dl->printPage('<p>Welcome to the GDPS dashboard. Please choose a tool above.
 				<br>DISCLAIMER: THIS AREA IS UNDER NO DEVELOPEMENT, DON\'T EXPECT MUCH STUFF TO WORK
-				<br>Legend: (N) = Not Working, (T) = Links to the legacy tool version
+				<br>Legend: (N) = Not Working (for Levels list and Accounts List then use it by dashboard/stats/levelsList.php or dashboard/stats/accountsList.php), (T) = Links to the legacy tool version
 				<br>
 					<div class="chart-container" style="position: relative; height:30vh; width:80vw">
 						<canvas id="levelsChart"></canvas>
